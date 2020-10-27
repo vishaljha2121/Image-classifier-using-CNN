@@ -16,3 +16,6 @@ Each map is then subsampled typically with mean or max pooling over p x p contig
  Accuracy: 0.8744
  Validaton set loss: 0.4881
  Epochs: 100
+ 
+ 
+ Dataset file is 200MB and thus can't be uploaded. 
